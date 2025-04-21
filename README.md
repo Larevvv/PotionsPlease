@@ -46,4 +46,6 @@ To calculate the number of ticks for the potion duration, you can simply follow 
 }
 ```
 
+![Vanilla potion which only gives 8 minutes of strenght pales in comparison to the new 45 minutes of strength given by the mod](ChangedDuration.png)
+
 Removing a potion from the config disables the duration injection logic for that potion.
