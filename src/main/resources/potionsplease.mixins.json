@@ -1,0 +1,14 @@
+{
+	"required": true,
+	"package": "lare.potionsplease.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"mixins": [
+		"PotionContentsMixin",
+		"PotionLootMixin",
+		"TippedArrowRecipeMixin",
+		"PotionTradeMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}

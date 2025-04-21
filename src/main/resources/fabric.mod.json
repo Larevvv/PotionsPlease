@@ -1,0 +1,33 @@
+{
+	"schemaVersion": 1,
+	"id": "potionsplease",
+	"version": "${version}",
+	"name": "PotionsPlease",
+	"description": "Adds configurable overrides to vanilla potion durations",
+	"authors": [
+		"Lare"
+	],
+	"contact": {
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/potionsplease/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"lare.potionsplease.PotionsPlease"
+		]
+	},
+	"mixins": [
+		"potionsplease.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.13",
+		"minecraft": "~1.21.5",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
