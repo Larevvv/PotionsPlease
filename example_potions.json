@@ -1,0 +1,230 @@
+{
+    "minecraft:wind_charged": {
+        "DEFAULT_DURATION": 9600,
+        "SPLASH_DURATION": 3840,
+        "LINGER_DURATION": 1920,
+        "TIPPED_DURATION": 960
+    },
+    "minecraft:long_strength": {
+        "DEFAULT_DURATION": 54000,
+        "SPLASH_DURATION": 21600,
+        "LINGER_DURATION": 10800,
+        "TIPPED_DURATION": 5400
+    },
+    "minecraft:strong_strength": {
+        "DEFAULT_DURATION": 9600,
+        "SPLASH_DURATION": 3840,
+        "LINGER_DURATION": 1920,
+        "TIPPED_DURATION": 960
+    },
+    "minecraft:leaping": {
+        "DEFAULT_DURATION": 18000,
+        "SPLASH_DURATION": 7200,
+        "LINGER_DURATION": 3600,
+        "TIPPED_DURATION": 1800
+    },
+    "minecraft:long_leaping": {
+        "DEFAULT_DURATION": 54000,
+        "SPLASH_DURATION": 21600,
+        "LINGER_DURATION": 10800,
+        "TIPPED_DURATION": 5400
+    },
+    "minecraft:strong_leaping": {
+        "DEFAULT_DURATION": 9600,
+        "SPLASH_DURATION": 3840,
+        "LINGER_DURATION": 1920,
+        "TIPPED_DURATION": 960
+    },
+    "minecraft:weakness": {
+        "DEFAULT_DURATION": 1800,
+        "SPLASH_DURATION": 720,
+        "LINGER_DURATION": 360,
+        "TIPPED_DURATION": 180
+    },
+    "minecraft:long_night_vision": {
+        "DEFAULT_DURATION": 54000,
+        "SPLASH_DURATION": 21600,
+        "LINGER_DURATION": 10800,
+        "TIPPED_DURATION": 5400
+    },
+    "minecraft:slowness": {
+        "DEFAULT_DURATION": 1800,
+        "SPLASH_DURATION": 720,
+        "LINGER_DURATION": 360,
+        "TIPPED_DURATION": 180
+    },
+    "minecraft:long_weakness": {
+        "DEFAULT_DURATION": 4800,
+        "SPLASH_DURATION": 1920,
+        "LINGER_DURATION": 960,
+        "TIPPED_DURATION": 480
+    },
+    "minecraft:strength": {
+        "DEFAULT_DURATION": 18000,
+        "SPLASH_DURATION": 7200,
+        "LINGER_DURATION": 3600,
+        "TIPPED_DURATION": 1800
+    },
+    "minecraft:long_water_breathing": {
+        "DEFAULT_DURATION": 54000,
+        "SPLASH_DURATION": 21600,
+        "LINGER_DURATION": 10800,
+        "TIPPED_DURATION": 5400
+    },
+    "minecraft:invisibility": {
+        "DEFAULT_DURATION": 18000,
+        "SPLASH_DURATION": 7200,
+        "LINGER_DURATION": 3600,
+        "TIPPED_DURATION": 1800
+    },
+    "minecraft:long_swiftness": {
+        "DEFAULT_DURATION": 54000,
+        "SPLASH_DURATION": 21600,
+        "LINGER_DURATION": 10800,
+        "TIPPED_DURATION": 5400
+    },
+    "minecraft:turtle_master": {
+        "DEFAULT_DURATION": 400,
+        "SPLASH_DURATION": 160,
+        "LINGER_DURATION": 80,
+        "TIPPED_DURATION": 40
+    },
+    "minecraft:regeneration": {
+        "DEFAULT_DURATION": 900,
+        "SPLASH_DURATION": 360,
+        "LINGER_DURATION": 180,
+        "TIPPED_DURATION": 90
+    },
+    "minecraft:strong_poison": {
+        "DEFAULT_DURATION": 450,
+        "SPLASH_DURATION": 180,
+        "LINGER_DURATION": 90,
+        "TIPPED_DURATION": 45
+    },
+    "minecraft:long_invisibility": {
+        "DEFAULT_DURATION": 54000,
+        "SPLASH_DURATION": 21600,
+        "LINGER_DURATION": 10800,
+        "TIPPED_DURATION": 5400
+    },
+    "minecraft:long_fire_resistance": {
+        "DEFAULT_DURATION": 54000,
+        "SPLASH_DURATION": 21600,
+        "LINGER_DURATION": 10800,
+        "TIPPED_DURATION": 5400
+    },
+    "minecraft:strong_regeneration": {
+        "DEFAULT_DURATION": 450,
+        "SPLASH_DURATION": 180,
+        "LINGER_DURATION": 90,
+        "TIPPED_DURATION": 45
+    },
+    "minecraft:luck": {
+        "DEFAULT_DURATION": 36000,
+        "SPLASH_DURATION": 14400,
+        "LINGER_DURATION": 7200,
+        "TIPPED_DURATION": 3600
+    },
+    "minecraft:oozing": {
+        "DEFAULT_DURATION": 9600,
+        "SPLASH_DURATION": 3840,
+        "LINGER_DURATION": 1920,
+        "TIPPED_DURATION": 960
+    },
+    "minecraft:long_poison": {
+        "DEFAULT_DURATION": 1800,
+        "SPLASH_DURATION": 720,
+        "LINGER_DURATION": 360,
+        "TIPPED_DURATION": 180
+    },
+    "minecraft:weaving": {
+        "DEFAULT_DURATION": 9600,
+        "SPLASH_DURATION": 3840,
+        "LINGER_DURATION": 1920,
+        "TIPPED_DURATION": 960
+    },
+    "minecraft:infested": {
+        "DEFAULT_DURATION": 9600,
+        "SPLASH_DURATION": 3840,
+        "LINGER_DURATION": 1920,
+        "TIPPED_DURATION": 960
+    },
+    "minecraft:fire_resistance": {
+        "DEFAULT_DURATION": 18000,
+        "SPLASH_DURATION": 7200,
+        "LINGER_DURATION": 3600,
+        "TIPPED_DURATION": 1800
+    },
+    "minecraft:swiftness": {
+        "DEFAULT_DURATION": 18000,
+        "SPLASH_DURATION": 7200,
+        "LINGER_DURATION": 3600,
+        "TIPPED_DURATION": 1800
+    },
+    "minecraft:long_turtle_master": {
+        "DEFAULT_DURATION": 800,
+        "SPLASH_DURATION": 320,
+        "LINGER_DURATION": 160,
+        "TIPPED_DURATION": 80
+    },
+    "minecraft:poison": {
+        "DEFAULT_DURATION": 900,
+        "SPLASH_DURATION": 360,
+        "LINGER_DURATION": 180,
+        "TIPPED_DURATION": 90
+    },
+    "minecraft:long_regeneration": {
+        "DEFAULT_DURATION": 30000,
+        "SPLASH_DURATION": 12000,
+        "LINGER_DURATION": 6000,
+        "TIPPED_DURATION": 3000
+    },
+    "minecraft:long_slowness": {
+        "DEFAULT_DURATION": 4800,
+        "SPLASH_DURATION": 1920,
+        "LINGER_DURATION": 960,
+        "TIPPED_DURATION": 480
+    },
+    "minecraft:strong_turtle_master": {
+        "DEFAULT_DURATION": 400,
+        "SPLASH_DURATION": 160,
+        "LINGER_DURATION": 80,
+        "TIPPED_DURATION": 40
+    },
+    "minecraft:night_vision": {
+        "DEFAULT_DURATION": 18000,
+        "SPLASH_DURATION": 7200,
+        "LINGER_DURATION": 3600,
+        "TIPPED_DURATION": 1800
+    },
+    "minecraft:slow_falling": {
+        "DEFAULT_DURATION": 18000,
+        "SPLASH_DURATION": 7200,
+        "LINGER_DURATION": 3600,
+        "TIPPED_DURATION": 1800
+    },
+    "minecraft:long_slow_falling": {
+        "DEFAULT_DURATION": 54000,
+        "SPLASH_DURATION": 21600,
+        "LINGER_DURATION": 10800,
+        "TIPPED_DURATION": 5400
+    },
+    "minecraft:strong_swiftness": {
+        "DEFAULT_DURATION": 9600,
+        "SPLASH_DURATION": 3840,
+        "LINGER_DURATION": 1920,
+        "TIPPED_DURATION": 960
+    },
+    "minecraft:water_breathing": {
+        "DEFAULT_DURATION": 18000,
+        "SPLASH_DURATION": 7200,
+        "LINGER_DURATION": 3600,
+        "TIPPED_DURATION": 1800
+    },
+    "minecraft:strong_slowness": {
+        "DEFAULT_DURATION": 400,
+        "SPLASH_DURATION": 160,
+        "LINGER_DURATION": 80,
+        "TIPPED_DURATION": 40
+    }
+}
